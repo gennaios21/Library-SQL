@@ -1,0 +1,100 @@
+488-02-85734-04-0,Great Expectations,Mary Shelley,169,351.11,2000
+031-01-32674-48-8,Nineteen Eighty Four,William Faulkner,988,488.60,1977
+014-13-24336-84-1,The Sun Also Rises,Jack London,273,207.36,2014
+768-16-37411-03-4,Madame Bovary,Guillaume Musso,997,640.62,1949
+675-08-88034-71-7,The Metamorphosis,Leo Tolstoy,833,812.16,2013
+675-73-12240-24-3,The Good Soldier,Carolyn Brown,689,117.18,1991
+827-34-82016-75-0,The Sound and the Fury,Nathaniel Hawthorne,896,341.13,1930
+285-53-00834-78-4,War and Peace,Oscar Wilde,246,684.88,1978
+070-01-55326-66-5,The Sun Also Rises,John Steinbeck,945,775.35,1982
+333-08-43630-76-0,The Grapes of Wrath,Rachel Hollis,132,194.19,2007
+407-56-26714-36-3,To Kill a Mockingbird,John Steinbeck,497,190.69,2002
+146-71-23066-74-8,The Flowers of Evil,Mary Shelley,840,491.62,1992
+562-61-20247-85-5,Wuthering Heights,Ray Bradbury,171,327.75,1954
+533-20-13838-38-5,The Sound and the Fury,Emily Dickinson,149,27.86,2005
+540-88-16111-46-5, Oedipus at Colonus,Herman Melville,973,343.28,1974
+247-35-30726-12-3,Lord of the Flies,Emily Dickinson,227,792.57,1961
+412-01-78278-37-1,Gargantua and Pantagruel,Flannery O'Connor,652,303.79,1940
+357-23-30714-08-3,Vanity Fair,Alexander Pushkin,834,355.97,1972
+646-02-88784-75-1,Wuthering Heights,Kurt Vonnegut,234,719.65,2009
+760-87-76884-18-1,War and Peace,Guillaume Musso,197,567.67,1977
+424-41-32785-62-2,The Canterbury Tales,Emily Dickinson,217,776.66,1982
+824-88-37458-32-1,Madame Bovary,Paulo Coelo,196,552.31,1948
+754-87-32177-64-0,Tristram Shandy,Carolyn Brown,751,254.00,1961
+503-75-74356-00-8,To Kill a Mockingbird,Harper Lee,810,931.43,1955
+656-28-68427-16-8,The Old Man and the Sea,Paulo Coelo,734,161.50,2008
+812-05-37666-45-0,Nineteen Eighty Four,Franz Kafka,343,777.90,2002
+405-32-44018-61-3,Emma,Jack London,576,162.45,1976
+171-01-67104-87-3,To Kill a Mockingbird,Ralph Waldo Emerson,135,825.24,1993
+040-35-70503-86-7,To Kill a Mockingbird,Edgar Allan Poe,806,958.34,1930
+363-34-51122-02-2,Emma,J. K. Rowling,471,5.04,1970
+421-16-60610-10-3,David Copperfield,Rachel Hollis,820,17.60,1937
+574-66-20164-33-2,Lolita,Stephen King,880,767.25,1974
+653-70-01254-34-4,To Kill a Mockingbird,Mary Shelley,501,613.99,1981
+486-52-17582-87-0,Gone With the Wind,Flannery O'Connor,895,425.18,2017
+455-83-52875-32-8,Tess of the d'Urbervilles,Paulo Coelo,805,561.02,1930
+061-42-06638-88-4,The Magic Mountain,Henry James,579,988.88,2017
+200-18-04888-76-8,The Odyssey,F. Scott Fitzgerald,181,282.26,1937
+386-78-08570-23-1,The Divine Comedy,Dr. Seuss,768,917.07,1971
+246-06-64180-01-3,The Magic Mountain,Barbara Cartland,592,987.61,1952
+018-36-86557-31-4,The Grapes of Wrath,Guillaume Musso,995,608.65,2015
+803-70-56770-23-5,Alice Adventures in Wonderland,Kurt Vonnegut,981,293.28,1941
+800-18-25851-42-2,The Divine Comedy,William Faulkner,729,153.70,1955
+868-07-42468-70-4,Oedipus,J. K. Rowling,701,849.91,2016
+453-51-62704-53-4,Emma,Danielle Steel,370,362.03,2021
+155-77-86105-72-1,Ulysses,Paulo Coelo,271,695.58,1941
+635-62-01526-43-1,War and Peace,Stephenie Meyer,807,348.94,2002
+463-52-21135-20-2,Lolita,Agatha Christie,341,602.54,2006
+266-34-34165-30-7,The Scarlet Letter,Barbara Cartland,130,449.32,2003
+240-77-88516-73-2,The Scarlet Letter,Stephen King,712,50.84,1954
+817-04-50547-36-7,Invisible Man,C.S. Lewis,339,297.15,2011
+844-62-47106-35-7,Anna Karenina,Walt Whitman,398,583.48,1972
+517-24-77803-48-1,In Search of Lost Time,Margaret Atwood,948,783.53,1976
+456-38-70244-55-1,Ulysses,Guillaume Musso,597,670.11,1947
+884-46-75710-62-3,To Kill a Mockingbird,William Shakespeare,980,844.89,2004
+733-42-44721-38-4,The Sound and the Fury,Edith Wharton,643,618.98,1943
+852-08-27217-17-8,Paradise Lost,Stephenie Meyer,321,776.49,1961
+282-83-56013-71-4,The Grapes of Wrath,J. R. R. Tolkien,904,201.57,1960
+423-22-00332-55-7,Alice Adventures in Wonderland,Jane Austen,719,174.76,1987
+842-15-73567-26-5,The Lord of The Rings,Cormac McCarthy,121,16.90,1996
+882-13-65780-12-4,Alice Adventures in Wonderland,Harper Lee,705,843.24,1944
+637-33-50488-30-2,Ulysses,Cormac McCarthy,824,640.60,1954
+730-03-44465-00-5,Ulysses,Stephenie Meyer,229,313.09,1984
+752-15-85884-02-8, Oedipus at Colonus,Harper Lee,433,734.70,1967
+478-02-88862-35-1,Oedipus,William Faulkner,745,623.60,1950
+306-45-86218-03-1,Tristram Shandy,Barbara Cartland,659,733.99,1981
+826-07-64785-73-8,Gargantua and Pantagruel,Stephen King,337,309.69,1958
+215-56-86821-20-2,Lolita,William Shakespeare,685,921.72,1938
+870-06-62505-51-5,Gulliver's Travels,F. Scott Fitzgerald,718,444.32,1994
+801-72-66455-71-5,In Search of Lost Time,Herman Melville,795,446.21,1932
+784-35-26051-80-5,Wuthering Heights,Herman Melville,762,71.79,1937
+730-16-81405-31-8,Madame Bovary,F. Scott Fitzgerald,496,807.50,1987
+445-50-36527-37-1,Pride and Prejudice,Ralph Waldo Emerson,412,620.84,1994
+734-65-32885-18-3,The Scarlet Letter,Carlos Ruiz Zafon,390,541.30,2000
+870-38-65721-51-7,The Handmaid's Tale,John Steinbeck,734,178.99,2004
+827-36-00885-65-7,The Great Gatsby,Stephenie Meyer,905,851.79,1935
+480-50-72332-24-2,Les Misérables,Nathaniel Hawthorne,454,524.09,1975
+237-76-24470-86-2,The Red and the Black,Jin Yong,493,816.89,1990
+744-55-55032-05-2,Ulysses,Ralph Waldo Emerson,599,689.70,1944
+234-24-34505-18-8,One Hundred Years of Solitude,Jules Verne,325,971.79,2002
+120-11-16358-83-3,Lolita,Henry James,612,321.37,1949
+821-05-32311-44-3,Gargantua and Pantagruel,Barbara Cartland,547,933.29,1942
+317-87-61261-28-4,Tess of the d'Urbervilles,Bella Forrest,879,547.03,1948
+377-64-21345-42-6,Emma,Walt Whitman,121,85.08,1959
+234-14-28286-58-3,Madame Bovary,Nathaniel Hawthorne,878,352.50,1965
+356-25-61845-37-6,Ulysses,Herman Melville,743,865.96,1986
+245-02-68616-83-7,The Sun Also Rises,J. R. R. Tolkien,765,680.59,1931
+743-33-55781-16-7,The Red and the Black,Nathaniel Hawthorne,282,918.76,1984
+456-80-14243-80-4,Alice Adventures in Wonderland,Stephenie Meyer,212,130.95,1938
+145-78-50014-02-7,The Brothers Karamazov ,Jack London,188,359.11,1975
+217-30-48055-06-5,The Scarlet Letter,Rachel Hollis,620,120.83,2003
+738-13-63010-40-4,The Grapes of Wrath,Tennessee Williams,667,874.33,1942
+538-44-31640-83-8,The Magic Mountain,Leo Tolstoy,394,79.33,1938
+455-47-81546-85-8,The Scarlet Letter,Carolyn Brown,284,426.82,2014
+462-88-82646-86-4,Nineteen Eighty Four,Alexandre Dumas,893,517.99,2012
+142-75-84401-80-1,One Hundred Years of Solitude,Margaret Atwood,811,343.17,1986
+645-25-75032-13-4,Moby Dick,Flannery O'Connor,683,406.22,2018
+503-41-44671-34-3,Oedipus,Robert Frost,354,378.60,1946
+680-80-17747-57-6,The Good Soldier,Ernest Hemingway,552,594.31,1930
+371-17-80765-58-1,The Great Gatsby,Herman Melville,589,27.62,1942
+233-68-71258-01-2,The Brothers Karamazov ,Ralph Waldo Emerson,328,365.53,2001
