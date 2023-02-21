@@ -1,4 +1,4 @@
-# library
+# Library-SQL project
 This application is based around an SQLite database regarding a network of libraries, along with a GUI environment, with fake data inserted through python.
 
 1) Export library.zip as "library"
